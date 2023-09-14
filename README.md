@@ -44,8 +44,6 @@ Observação: O sistema já possui um usuário administrador com email = "admin@
 
 ## Autor
 
-[![Lucas Mathias](https://avatars.githubusercontent.com/lucasmsf)](https://github.com/lucasMSF)
-
 **Lucas Mathias**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mathias-729a27181/)](https://www.linkedin.com/in/lucas-mathias-729a27181/)
